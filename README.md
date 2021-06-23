@@ -5,6 +5,6 @@ Instructions:
 --then run these server and client codes
 --It any problem occurs feel free to contact.
 
-This project has been done for the purpose of "Computer Networks Lab" in B.tech. You are free to use and change the codes.
+ You are free to use and change the codes.
 
 
