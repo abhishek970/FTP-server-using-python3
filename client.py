@@ -32,6 +32,7 @@ while True:
             file.write(file_data)
             file.close()
             print('SERVER: DOWNLOADED!')
+            #file received
         else:
             pass    
     else:
